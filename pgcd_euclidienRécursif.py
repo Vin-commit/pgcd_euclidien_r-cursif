@@ -17,6 +17,3 @@ def pgcd_recursif(a, b):
 a = int(input(“Entrez le premier nombre : “))
 b = int(input(“Entrez le second nombre :”))
 print (“Leur pgcd est :”, pgcd_recursif(a, b))
-
-
------------------------------------------------------------------------ Résultat ---------------------------------------------------------------------------
